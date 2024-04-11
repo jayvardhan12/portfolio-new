@@ -1,6 +1,6 @@
 <h2 align="center">
   Portfolio Website - v2.0<br/>
-  <a href="https://soumyajit.vercel.app/" target="_blank">Jay Vardhan Chaudhary</a>
+  <a href="" target="_blank">Jay Vardhan Chaudhary</a>
 </h2>
 <div align="center">
   <img alt="Demo" src="./Images/Screenshot (63).png" />
@@ -57,5 +57,8 @@ You will find all the components used and you can edit your information accordin
 ### Show your support
 
 Give a ⭐ if you like this website!
+
+
+
 
 
